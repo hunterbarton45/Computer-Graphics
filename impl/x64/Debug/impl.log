@@ -1,0 +1,24 @@
+﻿  surface.cpp
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(15): error C2789: 'ctxgraf::Surface::m_height': an object of const-qualified type must be initialized
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.h(13): note: see declaration of 'ctxgraf::Surface::m_height'
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(15): error C2789: 'ctxgraf::Surface::m_width': an object of const-qualified type must be initialized
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.h(14): note: see declaration of 'ctxgraf::Surface::m_width'
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(15): error C2789: 'ctxgraf::Surface::m_pitch': an object of const-qualified type must be initialized
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.h(15): note: see declaration of 'ctxgraf::Surface::m_pitch'
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(15): error C2789: 'ctxgraf::Surface::m_format': an object of const-qualified type must be initialized
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.h(16): note: see declaration of 'ctxgraf::Surface::m_format'
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(21): error C2166: l-value specifies const object
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(36): error C2065: 'width': undeclared identifier
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(37): error C2065: 'height': undeclared identifier
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(39): error C2679: binary '=': no operator found which takes a right-hand operand of type 'void' (or there is no acceptable conversion)
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\ctxgraf\include\ctxgraf_pub.h(51): note: could be 'ctxgraf::Color &ctxgraf::Color::operator =(ctxgraf::Color &&)'
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\ctxgraf\include\ctxgraf_pub.h(51): note: or       'ctxgraf::Color &ctxgraf::Color::operator =(const ctxgraf::Color &)'
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(39): note: while trying to match the argument list '(ctxgraf::Color, void)'
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(45): error C2440: 'return': cannot convert from 'void' to 'ctxgraf::Color'
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(45): note: Expressions of type void cannot be converted to other types
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(86): error C2440: 'return': cannot convert from 'const uint32_t' to 'ctxgraf::PixelFormat'
+  c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\impl\surface.cpp(86): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+  Generating Code...
+  Compiling...
+  top.cpp
+  Generating Code...

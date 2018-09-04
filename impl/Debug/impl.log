@@ -1,0 +1,67 @@
+﻿  drawingContext.cpp
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(70): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(80): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(99): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(100): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(101): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(105): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(108): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(111): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(119): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(121): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(35): warning C4101: 'drawPixel': unreferenced local variable
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(140): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(141): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(178): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(180): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(183): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(184): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(185): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(186): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(198): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(214): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(215): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(216): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(217): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(223): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(224): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(225): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(226): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(232): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(233): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(234): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(235): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(244): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(245): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(246): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(247): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(268): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(275): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(295): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(300): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(301): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(302): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\hunter barton\documents\visual studio 2017\projects\graphics_project\impl\drawingcontext.cpp(303): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+  surface.cpp
+  top.cpp
+  Generating Code...
+     Creating library C:\Users\Hunter Barton\Documents\Visual Studio 2017\Projects\graphics_project\ctxgraf\..\out\ctxgraf.lib and object C:\Users\Hunter Barton\Documents\Visual Studio 2017\Projects\graphics_project\ctxgraf\..\out\ctxgraf.exp
+  impl.vcxproj -> C:\Users\Hunter Barton\Documents\Visual Studio 2017\Projects\graphics_project\ctxgraf\..\out\ctxgraf.dll

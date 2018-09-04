@@ -1,0 +1,2 @@
+﻿  ogldemo1.cpp
+c:\users\hunter barton\documents\visual studio 2015\projects\graphics_project\ogldemo1\ogldemo1.cpp(15): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
