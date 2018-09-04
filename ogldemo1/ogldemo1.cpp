@@ -549,9 +549,6 @@ static void keyboard(unsigned char key, int x, int y, bool shift, bool ctrl)
 	if (key == 'r')
 		rotCam = !rotCam;
 
-	if (key == 'R')
-		objRot = !objRot;
-
 	if ((key == 'w') && (updown < 30))
 		updown += .5;
 
